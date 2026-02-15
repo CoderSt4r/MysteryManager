@@ -1,0 +1,2 @@
+# MysteryManager
+Discord moderation bot
